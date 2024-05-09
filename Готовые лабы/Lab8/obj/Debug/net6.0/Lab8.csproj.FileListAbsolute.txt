@@ -1,0 +1,14 @@
+C:\Users\Леново\Desktop\ООП\Lab8\bin\Debug\net6.0\Lab8.exe
+C:\Users\Леново\Desktop\ООП\Lab8\bin\Debug\net6.0\Lab8.deps.json
+C:\Users\Леново\Desktop\ООП\Lab8\bin\Debug\net6.0\Lab8.runtimeconfig.json
+C:\Users\Леново\Desktop\ООП\Lab8\bin\Debug\net6.0\Lab8.dll
+C:\Users\Леново\Desktop\ООП\Lab8\bin\Debug\net6.0\Lab8.pdb
+C:\Users\Леново\Desktop\ООП\Lab8\obj\Debug\net6.0\Lab8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Леново\Desktop\ООП\Lab8\obj\Debug\net6.0\Lab8.AssemblyInfoInputs.cache
+C:\Users\Леново\Desktop\ООП\Lab8\obj\Debug\net6.0\Lab8.AssemblyInfo.cs
+C:\Users\Леново\Desktop\ООП\Lab8\obj\Debug\net6.0\Lab8.csproj.CoreCompileInputs.cache
+C:\Users\Леново\Desktop\ООП\Lab8\obj\Debug\net6.0\Lab8.dll
+C:\Users\Леново\Desktop\ООП\Lab8\obj\Debug\net6.0\refint\Lab8.dll
+C:\Users\Леново\Desktop\ООП\Lab8\obj\Debug\net6.0\Lab8.pdb
+C:\Users\Леново\Desktop\ООП\Lab8\obj\Debug\net6.0\Lab8.genruntimeconfig.cache
+C:\Users\Леново\Desktop\ООП\Lab8\obj\Debug\net6.0\ref\Lab8.dll

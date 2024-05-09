@@ -1,0 +1,1 @@
+Taxi number: D123DD Location: 40 40 Speed: 40 Status: free

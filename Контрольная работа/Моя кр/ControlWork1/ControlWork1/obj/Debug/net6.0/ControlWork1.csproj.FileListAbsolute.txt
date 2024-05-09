@@ -1,0 +1,14 @@
+C:\Users\Леново\Desktop\ControlWork1\ControlWork1\bin\Debug\net6.0\ControlWork1.exe
+C:\Users\Леново\Desktop\ControlWork1\ControlWork1\bin\Debug\net6.0\ControlWork1.deps.json
+C:\Users\Леново\Desktop\ControlWork1\ControlWork1\bin\Debug\net6.0\ControlWork1.runtimeconfig.json
+C:\Users\Леново\Desktop\ControlWork1\ControlWork1\bin\Debug\net6.0\ControlWork1.dll
+C:\Users\Леново\Desktop\ControlWork1\ControlWork1\bin\Debug\net6.0\ControlWork1.pdb
+C:\Users\Леново\Desktop\ControlWork1\ControlWork1\obj\Debug\net6.0\ControlWork1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Леново\Desktop\ControlWork1\ControlWork1\obj\Debug\net6.0\ControlWork1.AssemblyInfoInputs.cache
+C:\Users\Леново\Desktop\ControlWork1\ControlWork1\obj\Debug\net6.0\ControlWork1.AssemblyInfo.cs
+C:\Users\Леново\Desktop\ControlWork1\ControlWork1\obj\Debug\net6.0\ControlWork1.csproj.CoreCompileInputs.cache
+C:\Users\Леново\Desktop\ControlWork1\ControlWork1\obj\Debug\net6.0\ControlWork1.dll
+C:\Users\Леново\Desktop\ControlWork1\ControlWork1\obj\Debug\net6.0\refint\ControlWork1.dll
+C:\Users\Леново\Desktop\ControlWork1\ControlWork1\obj\Debug\net6.0\ControlWork1.pdb
+C:\Users\Леново\Desktop\ControlWork1\ControlWork1\obj\Debug\net6.0\ControlWork1.genruntimeconfig.cache
+C:\Users\Леново\Desktop\ControlWork1\ControlWork1\obj\Debug\net6.0\ref\ControlWork1.dll

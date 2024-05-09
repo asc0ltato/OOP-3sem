@@ -1,0 +1,13 @@
+Intel 100 8-gb
+Intel 170 16-gb
+
+Amd 200 8-gb
+Amd 300 16-gb
+
+Intel 100 8-gb
+Intel 170 16-gb
+Amd 200 8-gb
+Intel 220 8-gb
+Intel 270 8-gb
+Amd 300 16-gb
+

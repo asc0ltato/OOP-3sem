@@ -1,0 +1,15 @@
+C:\Users\dimat\Desktop\Экзамены_3сем\ООП\Реализация задач\8_7\8_7\bin\Debug\net6.0\8_7.exe
+C:\Users\dimat\Desktop\Экзамены_3сем\ООП\Реализация задач\8_7\8_7\bin\Debug\net6.0\8_7.deps.json
+C:\Users\dimat\Desktop\Экзамены_3сем\ООП\Реализация задач\8_7\8_7\bin\Debug\net6.0\8_7.runtimeconfig.json
+C:\Users\dimat\Desktop\Экзамены_3сем\ООП\Реализация задач\8_7\8_7\bin\Debug\net6.0\8_7.dll
+C:\Users\dimat\Desktop\Экзамены_3сем\ООП\Реализация задач\8_7\8_7\bin\Debug\net6.0\8_7.pdb
+C:\Users\dimat\Desktop\Экзамены_3сем\ООП\Реализация задач\8_7\8_7\obj\Debug\net6.0\8_7.csproj.AssemblyReference.cache
+C:\Users\dimat\Desktop\Экзамены_3сем\ООП\Реализация задач\8_7\8_7\obj\Debug\net6.0\8_7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimat\Desktop\Экзамены_3сем\ООП\Реализация задач\8_7\8_7\obj\Debug\net6.0\8_7.AssemblyInfoInputs.cache
+C:\Users\dimat\Desktop\Экзамены_3сем\ООП\Реализация задач\8_7\8_7\obj\Debug\net6.0\8_7.AssemblyInfo.cs
+C:\Users\dimat\Desktop\Экзамены_3сем\ООП\Реализация задач\8_7\8_7\obj\Debug\net6.0\8_7.csproj.CoreCompileInputs.cache
+C:\Users\dimat\Desktop\Экзамены_3сем\ООП\Реализация задач\8_7\8_7\obj\Debug\net6.0\8_7.dll
+C:\Users\dimat\Desktop\Экзамены_3сем\ООП\Реализация задач\8_7\8_7\obj\Debug\net6.0\refint\8_7.dll
+C:\Users\dimat\Desktop\Экзамены_3сем\ООП\Реализация задач\8_7\8_7\obj\Debug\net6.0\8_7.pdb
+C:\Users\dimat\Desktop\Экзамены_3сем\ООП\Реализация задач\8_7\8_7\obj\Debug\net6.0\8_7.genruntimeconfig.cache
+C:\Users\dimat\Desktop\Экзамены_3сем\ООП\Реализация задач\8_7\8_7\obj\Debug\net6.0\ref\8_7.dll

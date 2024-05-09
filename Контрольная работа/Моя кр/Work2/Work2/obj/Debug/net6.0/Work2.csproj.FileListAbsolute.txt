@@ -1,0 +1,14 @@
+C:\Users\Леново\Desktop\Work2\Work2\bin\Debug\net6.0\Work2.exe
+C:\Users\Леново\Desktop\Work2\Work2\bin\Debug\net6.0\Work2.deps.json
+C:\Users\Леново\Desktop\Work2\Work2\bin\Debug\net6.0\Work2.runtimeconfig.json
+C:\Users\Леново\Desktop\Work2\Work2\bin\Debug\net6.0\Work2.dll
+C:\Users\Леново\Desktop\Work2\Work2\bin\Debug\net6.0\Work2.pdb
+C:\Users\Леново\Desktop\Work2\Work2\obj\Debug\net6.0\Work2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Леново\Desktop\Work2\Work2\obj\Debug\net6.0\Work2.AssemblyInfoInputs.cache
+C:\Users\Леново\Desktop\Work2\Work2\obj\Debug\net6.0\Work2.AssemblyInfo.cs
+C:\Users\Леново\Desktop\Work2\Work2\obj\Debug\net6.0\Work2.csproj.CoreCompileInputs.cache
+C:\Users\Леново\Desktop\Work2\Work2\obj\Debug\net6.0\Work2.dll
+C:\Users\Леново\Desktop\Work2\Work2\obj\Debug\net6.0\refint\Work2.dll
+C:\Users\Леново\Desktop\Work2\Work2\obj\Debug\net6.0\Work2.pdb
+C:\Users\Леново\Desktop\Work2\Work2\obj\Debug\net6.0\Work2.genruntimeconfig.cache
+C:\Users\Леново\Desktop\Work2\Work2\obj\Debug\net6.0\ref\Work2.dll

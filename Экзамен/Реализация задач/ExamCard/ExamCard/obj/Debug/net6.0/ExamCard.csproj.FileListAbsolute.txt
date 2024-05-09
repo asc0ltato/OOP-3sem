@@ -1,0 +1,15 @@
+C:\Users\dimat\Desktop\Экзамены_3сем\ООП\Реализация задач\ExamCard\ExamCard\bin\Debug\net6.0\ExamCard.exe
+C:\Users\dimat\Desktop\Экзамены_3сем\ООП\Реализация задач\ExamCard\ExamCard\bin\Debug\net6.0\ExamCard.deps.json
+C:\Users\dimat\Desktop\Экзамены_3сем\ООП\Реализация задач\ExamCard\ExamCard\bin\Debug\net6.0\ExamCard.runtimeconfig.json
+C:\Users\dimat\Desktop\Экзамены_3сем\ООП\Реализация задач\ExamCard\ExamCard\bin\Debug\net6.0\ExamCard.dll
+C:\Users\dimat\Desktop\Экзамены_3сем\ООП\Реализация задач\ExamCard\ExamCard\bin\Debug\net6.0\ExamCard.pdb
+C:\Users\dimat\Desktop\Экзамены_3сем\ООП\Реализация задач\ExamCard\ExamCard\obj\Debug\net6.0\ExamCard.csproj.AssemblyReference.cache
+C:\Users\dimat\Desktop\Экзамены_3сем\ООП\Реализация задач\ExamCard\ExamCard\obj\Debug\net6.0\ExamCard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimat\Desktop\Экзамены_3сем\ООП\Реализация задач\ExamCard\ExamCard\obj\Debug\net6.0\ExamCard.AssemblyInfoInputs.cache
+C:\Users\dimat\Desktop\Экзамены_3сем\ООП\Реализация задач\ExamCard\ExamCard\obj\Debug\net6.0\ExamCard.AssemblyInfo.cs
+C:\Users\dimat\Desktop\Экзамены_3сем\ООП\Реализация задач\ExamCard\ExamCard\obj\Debug\net6.0\ExamCard.csproj.CoreCompileInputs.cache
+C:\Users\dimat\Desktop\Экзамены_3сем\ООП\Реализация задач\ExamCard\ExamCard\obj\Debug\net6.0\ExamCard.dll
+C:\Users\dimat\Desktop\Экзамены_3сем\ООП\Реализация задач\ExamCard\ExamCard\obj\Debug\net6.0\refint\ExamCard.dll
+C:\Users\dimat\Desktop\Экзамены_3сем\ООП\Реализация задач\ExamCard\ExamCard\obj\Debug\net6.0\ExamCard.pdb
+C:\Users\dimat\Desktop\Экзамены_3сем\ООП\Реализация задач\ExamCard\ExamCard\obj\Debug\net6.0\ExamCard.genruntimeconfig.cache
+C:\Users\dimat\Desktop\Экзамены_3сем\ООП\Реализация задач\ExamCard\ExamCard\obj\Debug\net6.0\ref\ExamCard.dll

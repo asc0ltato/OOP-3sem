@@ -1,0 +1,4 @@
+Status: Ready
+Status: Fly
+Fly = 3
+Average speed = 250

@@ -1,0 +1,17 @@
+Имя сборки, в которой определен класс 'Lab11.Person': Lab11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Есть ли публичные конструкторы класса 'Lab11.Person': True
+Общедоступные публичные методы класса 'Lab11.Person':
+get_Name
+Walk
+Eat
+Sleep
+GetType
+ToString
+Equals
+GetHashCode
+Поля и свойства класса 'Lab11.Person':
+age
+Name
+Интерфейсы, реализованные классом 'Lab11.Person':
+Методы класса 'Lab11.Person' с заданным типом параметра:
+Eat

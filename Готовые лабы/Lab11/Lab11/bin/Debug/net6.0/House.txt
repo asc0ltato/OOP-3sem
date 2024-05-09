@@ -1,0 +1,18 @@
+Имя сборки, в которой определен класс 'Lab11.House': Lab11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Есть ли публичные конструкторы класса 'Lab11.House': True
+Общедоступные публичные методы класса 'Lab11.House':
+get_Address
+get_NumberOfRooms
+set_NumberOfRooms
+OpenDoor
+CloseDoor
+GetType
+ToString
+Equals
+GetHashCode
+Поля и свойства класса 'Lab11.House':
+Address
+NumberOfRooms
+Интерфейсы, реализованные классом 'Lab11.House':
+Методы класса 'Lab11.House' с заданным типом параметра:
+CloseDoor

@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "iVx/GADuYThxdSfVY/+zzYizF93FPjFCbq22JS8vmRcVFUCUI0RlFy4zcVXyx5R+V+wIpY+Ikn/7Sx0MwP0pGg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Леново\\Desktop\\ООП\\Lab13\\Lab13\\Lab13.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Леново\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Леново\\.nuget\\packages\\soapformatter\\1.1.9\\soapformatter.1.1.9.nupkg.sha512",
+    "C:\\Users\\Леново\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Леново\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
+    "C:\\Users\\Леново\\.nuget\\packages\\system.text.json\\8.0.0\\system.text.json.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

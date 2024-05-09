@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\Exam\Exam\bin\Debug\net6.0\Exam.exe
+C:\Users\user\Desktop\Exam\Exam\bin\Debug\net6.0\Exam.deps.json
+C:\Users\user\Desktop\Exam\Exam\bin\Debug\net6.0\Exam.runtimeconfig.json
+C:\Users\user\Desktop\Exam\Exam\bin\Debug\net6.0\Exam.dll
+C:\Users\user\Desktop\Exam\Exam\bin\Debug\net6.0\Exam.pdb
+C:\Users\user\Desktop\Exam\Exam\obj\Debug\net6.0\Exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Exam\Exam\obj\Debug\net6.0\Exam.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Exam\Exam\obj\Debug\net6.0\Exam.AssemblyInfo.cs
+C:\Users\user\Desktop\Exam\Exam\obj\Debug\net6.0\Exam.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Exam\Exam\obj\Debug\net6.0\Exam.dll
+C:\Users\user\Desktop\Exam\Exam\obj\Debug\net6.0\refint\Exam.dll
+C:\Users\user\Desktop\Exam\Exam\obj\Debug\net6.0\Exam.pdb
+C:\Users\user\Desktop\Exam\Exam\obj\Debug\net6.0\Exam.genruntimeconfig.cache
+C:\Users\user\Desktop\Exam\Exam\obj\Debug\net6.0\ref\Exam.dll

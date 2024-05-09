@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Questions>
+  <Question>
+    <question>Как дела?</question>
+    <questionAnswer>Норм</questionAnswer>
+  </Question>
+  <Question>
+    <question>Что нового?</question>
+    <questionAnswer>Всё хорошо</questionAnswer>
+  </Question>
+</Questions>
